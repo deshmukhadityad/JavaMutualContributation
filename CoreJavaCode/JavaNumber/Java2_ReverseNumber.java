@@ -1,5 +1,5 @@
 class Java2_ReverseNumber{
-
+// This is reverse number logic
 public static void main(String[] args)
 {
     int num=1234;

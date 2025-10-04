@@ -1,5 +1,5 @@
 public class Java5_PalindromeNumber {
-
+// This is palindrome number logic
     public static void main(String[] args)
     {
         int i =1243;

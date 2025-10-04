@@ -1,5 +1,5 @@
 public class Java3_SearchNumber {
-
+// This is search number is in given number logic
     public static void main(String[] args)
     {
         int num =1234;

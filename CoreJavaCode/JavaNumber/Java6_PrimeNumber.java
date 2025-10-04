@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 public class Java6_PrimeNumber {
+    //This is prime number logic
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
